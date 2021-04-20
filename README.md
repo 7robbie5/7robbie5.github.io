@@ -8,4 +8,4 @@
 ## Tools
 [Atani](https://atani.com/) - [Yahoo Finance](https://finance.yahoo.com/) - [CoinGecko](https://www.coingecko.com/en)
 ### Credits
-&reg; 1975 [Honig](http://www.robhonig.com)
+&reg; 1975 [Honig](http://www.robhonig.com) - v0.0.1-alpha.1 :P
