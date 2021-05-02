@@ -8,4 +8,4 @@
 ## Tools
 [Atani](https://atani.com/) - [Yahoo Finance](https://finance.yahoo.com/) - [CoinGecko](https://www.coingecko.com/en) - [TradingView](https://www.tradingview.com/gopro/?share_your_love=electricalBear53304)
 ### Credits
-&reg; 1975 [Honig](http://www.robhonig.com) &trade; &check;
+&reg; 1975 [Honig](http://www.robhonig.com) &trade;
