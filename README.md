@@ -13,5 +13,9 @@
 [Resume TA Short](https://github.com/7robbie5/ro.b/blob/master/Resume_TA_Short_03052021.pdf) - [Total2/BTCUSD 1 D Altcoin BTC Pairs](https://www.tradingview.com/chart/TOTAL2/hukeRsYK-TOTAL2-BTCUSD-1-D-Altcoin-BTC-Pairs/)
 ## Cardano
 [Cardano Essential Rescources](https://github.com/input-output-hk/essential-cardano)
+## Crypto Mining
+[XMRig](https://github.com/xmrig)
+## Chia
+[Chia Network](https://github.com/Chia-Network)
 ### Credits
 &reg; 1975 [Honig](http://www.robhonig.com) &trade;
