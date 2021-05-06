@@ -8,7 +8,7 @@
 ## Stocks Trading
 [Trading 212](https://www.trading212.com/invite/Fg7r2Elz)
 ## Tools
-[Atani](https://atani.com/)&nbsp;&#124;&nbsp;[Yahoo Finance](https://finance.yahoo.com/)&nbsp;&verbar;&nbsp;[CoinGecko](https://www.coingecko.com/en)&nbsp;&#124;&nbsp;[TradingView](https://www.tradingview.com/gopro/?share_your_love=electricalBear53304)
+[Atani](https://atani.com/)&nbsp;&#124;&nbsp;[Yahoo Finance](https://finance.yahoo.com/)&nbsp;&#124;&nbsp;[CoinGecko](https://www.coingecko.com/en)&nbsp;&#124;&nbsp;[TradingView](https://www.tradingview.com/gopro/?share_your_love=electricalBear53304)
 ## Short TA Stuff
 [Resume TA Short](https://github.com/7robbie5/ro.b/blob/master/Resume_TA_Short_03052021.pdf)&nbsp;&#124;&nbsp;[Total2/BTCUSD 1 D Altcoin BTC Pairs](https://www.tradingview.com/chart/TOTAL2/hukeRsYK-TOTAL2-BTCUSD-1-D-Altcoin-BTC-Pairs/)
 ## Cardano
