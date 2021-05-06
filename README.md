@@ -1,6 +1,6 @@
 # 7robbie5.github.io
 ## Social
-[7robbie5](https://7robbie5.github.io)&nbsp;&vert;&nbsp;[Twitter](https://twitter.com/robhonig)&nbsp;&verbar;&nbsp;[Medium](https://medium.com/@honig.1975)&nbsp;&verbar;&nbsp;[Instagram](https://www.instagram.com/robbiehonig/)
+[7robbie5](https://7robbie5.github.io)&nbsp;&#124;&nbsp;[Twitter](https://twitter.com/robhonig)&nbsp;&verbar;&nbsp;[Medium](https://medium.com/@honig.1975)&nbsp;&verbar;&nbsp;[Instagram](https://www.instagram.com/robbiehonig/)
 ## Crypto Trading Exchanges
 [Binance](https://www.binance.com/en/register?ref=V8W85JLB)&nbsp;&verbar;&nbsp;[Gate.io](https://www.gate.io/ref/3212385)&nbsp;&verbar;&nbsp;[Hotbit](https://www.hotbit.io/register?ref=1344454)
 ## Crypto News
