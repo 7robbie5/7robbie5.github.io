@@ -19,5 +19,7 @@
 [XMRig](https://github.com/xmrig)
 ## Chia
 [Chia Network](https://github.com/Chia-Network)
+## Time
+[Time Is UTC](https://time.is/UTC)
 ### Credits
-&reg;&nbsp;1975&nbsp;[Honig](http://www.robhonig.com)&nbsp;&trade;
+&reg;&nbsp;1975&nbsp;&dash;&nbsp;2021&nbsp;[Honig](http://www.robhonig.com)&nbsp;&trade;
