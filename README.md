@@ -8,18 +8,10 @@
 ## Stocks Trading
 [Trading 212](https://www.trading212.com/invite/Fg7r2Elz)
 ## Tools
-[Atani](https://atani.com/)&nbsp;&#124;&nbsp;[Yahoo Finance](https://finance.yahoo.com/)&nbsp;&#124;&nbsp;[CoinGecko](https://www.coingecko.com/en)&nbsp;&#124;&nbsp;[TradingView](https://www.tradingview.com/gopro/?share_your_love=electricalBear53304)
+[Atani](https://atani.com/)&nbsp;&#124;&nbsp;[Yahoo Finance](https://finance.yahoo.com/)&nbsp;&#124;&nbsp;[CoinGecko](https://www.coingecko.com/en)&nbsp;&#124;&nbsp;[TradingView](https://www.tradingview.com/gopro/?share_your_love=electricalBear53304)&nbsp;&#124;&nbsp;[Time Is UTC](https://time.is/UTC)
 ## Short TA Stuff
 [Resume TA Short](https://github.com/7robbie5/ro.b/blob/master/Resume_TA_Short_03052021.pdf)&nbsp;&#124;&nbsp;[Total2/BTCUSD 1 D Altcoin BTC Pairs](https://www.tradingview.com/chart/TOTAL2/hukeRsYK-TOTAL2-BTCUSD-1-D-Altcoin-BTC-Pairs/)
 ## Cardano
-[Cardano Essential Rescources](https://github.com/input-output-hk/essential-cardano)&nbsp;&#124;&nbsp;[Ubuntu setup for Plutus Playround](https://docs.plutus-community.com/docs/setup/Ubuntu.html)
-## Programming Language
-[Plutus](https://github.com/input-output-hk/plutus)
-## Crypto Mining
-[XMRig](https://github.com/xmrig)
-## Chia
-[Chia Network](https://github.com/Chia-Network)&nbsp;&#124;&nbsp;[Chia Blockchain Wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
-## Time
-[Time Is UTC](https://time.is/UTC)
+[Cardano Essential Rescources](https://github.com/input-output-hk/essential-cardano)&nbsp;&#124;&nbsp;[Plutus](https://github.com/input-output-hk/plutus)&nbsp;&#124;&nbsp;[Plutus Playround Ubuntu](https://docs.plutus-community.com/docs/setup/Ubuntu.html)
 ### Credits
 &reg;&nbsp;1975&nbsp;&#8208;&nbsp;2021&nbsp;[Honig](http://www.robhonig.com)&nbsp;&trade;
