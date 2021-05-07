@@ -12,13 +12,13 @@
 ## Short TA Stuff
 [Resume TA Short](https://github.com/7robbie5/ro.b/blob/master/Resume_TA_Short_03052021.pdf)&nbsp;&#124;&nbsp;[Total2/BTCUSD 1 D Altcoin BTC Pairs](https://www.tradingview.com/chart/TOTAL2/hukeRsYK-TOTAL2-BTCUSD-1-D-Altcoin-BTC-Pairs/)
 ## Cardano
-[Cardano Essential Rescources](https://github.com/input-output-hk/essential-cardano)
+[Cardano Essential Rescources](https://github.com/input-output-hk/essential-cardano)&nbsp;&#124;&nbsp;[Ubuntu setup for Plutus Playround](https://docs.plutus-community.com/docs/setup/Ubuntu.html)
 ## Programming Language
 [Plutus](https://github.com/input-output-hk/plutus)
 ## Crypto Mining
 [XMRig](https://github.com/xmrig)
 ## Chia
-[Chia Network](https://github.com/Chia-Network)
+[Chia Network](https://github.com/Chia-Network)&nbsp;&#124;&nbsp;[Chia Blockchain Wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
 ## Time
 [Time Is UTC](https://time.is/UTC)
 ### Credits
