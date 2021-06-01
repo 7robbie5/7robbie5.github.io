@@ -1,21 +1,21 @@
 /* all links olive:  */
 a:link {
-  color: #708238;
+  color: #000
   }
 
 a:visited {
-  color: #708238;
+  color: #000;
   }
 
 a:hover {
-  color: #708238;
+  color: #000;
   }
 
 a:active {
-  color: #708238;
+  color: #000;
   }
 /* all links olive:  */
 mark {
-  background-color:#708238;
+  background-color:#000;
   color: #ffffff;
   }
